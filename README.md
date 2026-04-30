@@ -125,7 +125,7 @@ Nelly Ferrada
 
 ## 🔗 Enlaces
 
-- 🌐 Sitio web: https://ferradasmane-droid.github.io/WEATHER_FRONTEND_M2/
+- 🌐 Sitio web: 
 
-- 💻 Repositorio: https://github.com/ferradasmane-droid/WEATHER_FRONTEND_M2.git
+- 💻 Repositorio: 
 
