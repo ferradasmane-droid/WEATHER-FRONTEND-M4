@@ -28,17 +28,27 @@ a {
   border-radius: 12px;
 }
 
-.nav-link {
-  color: #ffffff;
-  transition: all 0.2s ease;
-  display: inline-block;
-}
-.nav-link:hover {
-  transform: translateY(2px);
-  color: #00d4ff;
+.weather-app__nav {
+  background: linear-gradient(90deg, #3b6ef5, #2f5ad1);
+  padding: 0.5rem 0;
 }
 
 .weather-app__brand {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 1.2rem;
+  letter-spacing: 0.5px;
+}
+
+.weather-app__link {
+  color: #ffffff;
+  transition: 0.2s ease;
+}
+.weather-app__link:hover {
+  color: #cfe2ff;
+}
+.weather-app__link.active {
+  border-bottom: 2px solid #ffffff;
   font-weight: bold;
 }
 
