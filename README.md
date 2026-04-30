@@ -3,7 +3,7 @@
 ## 📌 Descripción
 Este proyecto corresponde al desarrollo de una aplicación web del clima en su versión inicial (MVP), reestructurada en el Módulo 3.
 
-La aplicación permite visualizar información básica del clima actual y acceder a un detalle con datos mas completos de distintas ciudades.
+La aplicación permite visualizar información básica del clima actual y acceder a un detalle con datos más completos de distintas ciudades.
 En esta versión se mejora la interfaz, organización del código y estilos, aplicando buenas prácticas de desarrollo frontend.
 
 ## 🎯 Objetivo
@@ -18,8 +18,8 @@ El objetivo de este proyecto es aplicar conocimientos de:
 
 ## ⚙️ Funcionalidades
 
-- ✅ Lista de cuidades con clima actual
-- ✅ Vista de detalle por cuidad
+- ✅ Lista de ciudades con clima actual
+- ✅ Vista de detalle por ciudad
 - ✅ Información de:
   - Temperatura
   - Humedad
@@ -29,14 +29,14 @@ El objetivo de este proyecto es aplicar conocimientos de:
 
 ##  🧠 Metodología de estilos
 
-Se utilizó la metodología **BEM (Block Elemment Modifier)** para organizar las clases Css, por ejemplo:
+Se utilizó la metodología **BEM (Block Element Modifier)** para organizar las clases CSS, por ejemplo:
 
 - `.weather-app__header`
 - `.weather-app__main`
 - `.place-card`
 - `.place-card__temp`
 
-Esto permite un código mas ordenado, escalable y mantenible.
+Esto permite un código más ordenado, escalable y mantenible.
 
 ## 🎨 Estructura SASS
 
@@ -117,7 +117,7 @@ Cada carpeta cumple una función específica:
 
 ## ℹ️ Nota 
 
-Este proyecto fue desarrollado sin uso de JavaScript adicional, enfocandose en la estructura, estilos y navegación.
+Este proyecto fue desarrollado sin uso de JavaScript adicional, enfocándose en la estructura, estilos y navegación.
 
 ## 👩‍💻 Autora
 Nelly Ferrada
@@ -125,7 +125,9 @@ Nelly Ferrada
 
 ## 🔗 Enlaces
 
+```markdown
 - 🌐 Sitio web:  https://ferradasmane-droid.github.io/WEATHER_FRONTEND_M3/
 
 - 💻 Repositorio: https://github.com/ferradasmane-droid/WEATHER_FRONTEND_M3
 
+```
