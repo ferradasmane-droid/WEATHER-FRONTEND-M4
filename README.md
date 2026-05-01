@@ -4,7 +4,7 @@
 Este proyecto corresponde al desarrollo de una aplicación web del clima en su versión inicial (MVP), reestructurada en el Módulo 3.
 
 La aplicación permite visualizar información básica del clima actual y acceder a un detalle con datos más completos de distintas ciudades.
-En esta versión se mejora la interfaz, organización del código y estilos, aplicando buenas prácticas de desarrollo frontend.
+En esta versión se mejora la interfaz, organización del código y estilos. El proyecto sigue buenas prácticas de organización y escalabilidad en desarrollo frontend.
 
 ## 🎯 Objetivo
 
@@ -87,8 +87,8 @@ Cada carpeta cumple una función específica:
 
 - **Variables**: (colores, tamaños, transiciones)
 - **Anidaciones (nesting)**: permite organizar los estilos dentro de un mismo bloque, siguiendo la estructura del HTML, mejorando la legibilidad y mantenimiento del código.
-- **Mixins**: reutilización de estilos(por ejemplo,efectos hover) 
-- **Metodología BEM**: organización de clase mediante bloques, elementos y modificadores para un código más claro y escalable
+- **Mixins**: reutilización de estilos (por ejemplo,efectos hover) 
+- **Metodología BEM**: organización de clases mediante bloques, elementos y modificadores para un código más claro y escalable
 - **Componentes reutilizables**: uso de elementos como cards, botones y navbar que permiten mantener un diseño consistente en toda la aplicación.
 
 
@@ -119,7 +119,7 @@ Cada carpeta cumple una función específica:
 
 ## ℹ️ Nota 
 
-Este proyecto fue desarrollado sin uso de JavaScript adicional, enfocándose en la estructura, estilos y navegación.
+Este proyecto fue desarrollado sin uso de JavaScript adicional, priorizando HTML, CSS y SASS.
 
 ## 👩‍💻 Autora
 Nelly Ferrada
