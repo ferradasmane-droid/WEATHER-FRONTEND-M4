@@ -106,7 +106,7 @@ Utilizados para:
 - evaluar tipos de clima
 - generar resúmenes automáticos
 
-#🎨 Metodología de estilos
+# 🎨 Metodología de estilos
 
 Se utilizó metodoligía BEM (Block Element Modifer).
 
@@ -218,8 +218,9 @@ Cada carpeta cumple una función específica:
 Proyecto desarrollado por Nelly Ferrada para el Bootcamp Frontend.
 
 
-## 🔗 Enlaces
+# 🔗 Repositorio GitHub
 
-- 🌐 Sitio web:  https://ferradasmane-droid.github.io/WEATHER_FRONTEND_M3/
 
-- 💻 Repositorio: https://github.com/ferradasmane-droid/WEATHER_FRONTEND_M3
+ https://github.com/ferradasmane-droid/WEATHER-FRONTEND-M4.git
+
+ad
