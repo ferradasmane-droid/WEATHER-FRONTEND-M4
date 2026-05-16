@@ -204,12 +204,11 @@ Cada carpeta cumple una función específica:
 4️⃣ Visualizar estadísticas dinámicas.
 
 
-# 🔗 Repositorio GitHub
+# 🔗 Enlaces
 
+- 💻 https://github.com/ferradasmane-droid/WEATHER-FRONTEND-M4.git
 
-```md
-[Ver repositorio] (LINK_AQUI)
-```
+- 🌐 https://ferradasmane-droid.github.io/WEATHER-FRONTEND-M4/
 
 
 
@@ -218,12 +217,8 @@ Cada carpeta cumple una función específica:
 Proyecto desarrollado por Nelly Ferrada para el Bootcamp Frontend.
 
 
-# 🔗 Repositorio GitHub
 
 
- https://github.com/ferradasmane-droid/WEATHER-FRONTEND-M4.git
 
-```md
-[Ver repositorio]
-(https://ferradasmane-droid.github.io/WEATHER-FRONTEND-M4/)
-```
+
+
